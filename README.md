@@ -1,4 +1,3 @@
-
 # 🧠 Projetos de Estudo – Curso em Vídeo (HTML5 & CSS3)
 
 Este repositório reúne os projetos desenvolvidos durante minha jornada de aprendizado com o curso de **HTML5 e CSS3** do canal [Curso em Vídeo](https://www.youtube.com/@CursoemVideo).
@@ -49,7 +48,7 @@ Todos os projetos foram criados seguindo as aulas e têm como objetivo aplicar o
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Danilo-Palacio/Projetos-HTML-Curso_em_video.git
    ```
 2. Acesse a pasta do projeto desejado:
 
